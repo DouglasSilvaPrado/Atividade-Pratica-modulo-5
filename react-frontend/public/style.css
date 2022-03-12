@@ -1,0 +1,70 @@
+/* fonts */
+
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+/* Resets */
+.reset{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+}
+
+h1{
+	color: #3011bc;
+	margin: 1rem 0;
+	
+}
+
+
+
+/* Cores */
+
+
+.primary-color {
+  color: #3011bc;
+}
+
+.secondary-color {
+  color: #607080;
+}
+
+.primary-bg-color {
+  color: #fff;
+}
+
+.secondary-bg-color {
+  color: #7262bbd5;
+}
+
+.btn-primary {
+  background: linear-gradient(to right, #3011bc 0%, #7262bbd5 100%);
+}
+
+.bg-footer {
+	background-color: #607080;
+}
+
+#icon{
+	color: #3011bc;
+	font-size: 40px;
+}
+
+
+/* media */
+
+
+@media (min-width: 600px){
+	.alturaTela{
+		min-height: 500px;
+	}
+}
+
+
