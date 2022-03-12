@@ -6,6 +6,9 @@
   1. Spring
   2. React
   3. Mongo
+  
+## Video demo
+<img src="video-demo.gif" alt="video-demo" />
 
 ## Desafio proposto
 
